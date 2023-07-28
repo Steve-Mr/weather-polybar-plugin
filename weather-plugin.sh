@@ -6,10 +6,10 @@
 
 APIKEY=`cat $HOME/.owm-key`
 # if you leave these empty location will be picked based on your ip-adres
-CITY_NAME='Rome'
-COUNTRY_CODE='IT'
+CITY_NAME='Zhengzhou'
+COUNTRY_CODE='CN'
 # Desired output language
-LANG="en"
+LANG="zh"
 # UNITS can be "metric", "imperial" or "kelvin". Set KNOTS to "yes" if you
 # want the wind in knots:
 
@@ -43,10 +43,10 @@ COLOR_TEXT=""
 # Polybar settings ____________________________________________________________
 
 # Font for the weather icons
-WEATHER_FONT_CODE=4
+WEATHER_FONT_CODE=5
 
 # Font for the thermometer icon
-TEMP_FONT_CODE=2
+TEMP_FONT_CODE=4
 
 # Wind settings _______________________________________________________________
 
